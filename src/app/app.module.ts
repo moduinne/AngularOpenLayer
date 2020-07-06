@@ -3,7 +3,7 @@ import { NgModule } from '@angular/core';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
-import {MapComponent} from 'src/app/map/map.component';
+import { MapComponent } from 'src/app/map/map.component';
 
 @NgModule({
   declarations: [
